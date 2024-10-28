@@ -4,8 +4,6 @@ Submitted by: Heeba Eddouh
 
 Task is an app that allows you to create and complete tasks.
 
-Time spent: 2 hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
@@ -17,20 +15,10 @@ The following **required** functionality is completed:
 - [x] Tasks can be deleted
 - [x] Users have a calendar view via navigation controller that displays tasks	
 
-
-The following **additional** features are implemented:
-
-- [ ] Tasks can be toggled completed
-- [ ] User can edit tasks by tapping on the task in the feed view
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 https://imgur.com/a/B41Sgaj
 
-## Notes
-
-Encountered challenges with creating the calendar feature.
 
 ## License
 
